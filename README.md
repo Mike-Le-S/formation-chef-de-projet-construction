@@ -20,6 +20,7 @@ Bouton vert **« Code » → « Download ZIP »** en haut de cette page, ou lien
 **`corriges/`** : les corrigés détaillés des exercices (un fascicule par module). Faire les exercices avant de les ouvrir.
 
 **`outils/`** :
+- `Guide-outils-Excel.pdf` : mode d'emploi pas à pas des deux classeurs Excel (quoi saisir, quoi lire, routine mensuelle, FAQ). À lire avant d'ouvrir les fichiers.
 - `SMIT-gestion-financiere.xlsx` : outil complet de gestion financière de chantier (budget par CFC, ventilation Salaires/Matériaux/Inventaire/Tiers, engagé, facturé, prévision fin de chantier, cash-flow, tableau de bord avec alertes), pré-rempli avec un chantier fictif d'exemple. Nécessite Excel 2019+ ou LibreOffice.
 - `matrice-risques.xlsx` : registre et matrice de risques 5×5.
 - `modele-pv-seance.docx` : modèle de procès-verbal de séance de chantier.
