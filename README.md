@@ -16,6 +16,7 @@ Bouton vert **« Code » → « Download ZIP »** en haut de cette page, ou lien
 5. Module 4 : Planification et pilotage (chemin critique)
 6. Module 5 : Gestion financière SMIT
 7. Module 6 : Leadership et management
+8. Module 7 : Méthodes de gestion de projet (PMI/IPMA) appliquées à la construction
 
 **`corriges/`** : les corrigés détaillés des exercices (un fascicule par module). Faire les exercices avant de les ouvrir.
 
